@@ -1,0 +1,362 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		694381632B09470900ECBB3B /* TextRenderingSwiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694381622B09470900ECBB3B /* TextRenderingSwiftApp.swift */; };
+		694381652B09470900ECBB3B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694381642B09470900ECBB3B /* ContentView.swift */; };
+		694381672B09470A00ECBB3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 694381662B09470A00ECBB3B /* Assets.xcassets */; };
+		6943816A2B09470A00ECBB3B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 694381692B09470A00ECBB3B /* Preview Assets.xcassets */; };
+		694381722B09472A00ECBB3B /* FontAtlas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694381712B09472A00ECBB3B /* FontAtlas.swift */; };
+		694381742B0A7BA900ECBB3B /* SimdTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694381732B0A7BA900ECBB3B /* SimdTypes.swift */; };
+		694381762B0A7D0E00ECBB3B /* TextMesh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694381752B0A7D0E00ECBB3B /* TextMesh.swift */; };
+		694381782B0AA6D400ECBB3B /* Renderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694381772B0AA6D400ECBB3B /* Renderer.swift */; };
+		694E71DD2B10409C00A8ED55 /* Shaders.metal in Sources */ = {isa = PBXBuildFile; fileRef = 694E71DC2B10409C00A8ED55 /* Shaders.metal */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6943815F2B09470900ECBB3B /* TextRenderingSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextRenderingSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		694381622B09470900ECBB3B /* TextRenderingSwiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextRenderingSwiftApp.swift; sourceTree = "<group>"; };
+		694381642B09470900ECBB3B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		694381662B09470A00ECBB3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		694381692B09470A00ECBB3B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6943816B2B09470A00ECBB3B /* TextRenderingSwift.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TextRenderingSwift.entitlements; sourceTree = "<group>"; };
+		694381712B09472A00ECBB3B /* FontAtlas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontAtlas.swift; sourceTree = "<group>"; };
+		694381732B0A7BA900ECBB3B /* SimdTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimdTypes.swift; sourceTree = "<group>"; };
+		694381752B0A7D0E00ECBB3B /* TextMesh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextMesh.swift; sourceTree = "<group>"; };
+		694381772B0AA6D400ECBB3B /* Renderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Renderer.swift; sourceTree = "<group>"; };
+		694E71DC2B10409C00A8ED55 /* Shaders.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = Shaders.metal; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6943815C2B09470900ECBB3B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		694381562B09470900ECBB3B = {
+			isa = PBXGroup;
+			children = (
+				694E71DC2B10409C00A8ED55 /* Shaders.metal */,
+				694381612B09470900ECBB3B /* TextRenderingSwift */,
+				694381602B09470900ECBB3B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		694381602B09470900ECBB3B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6943815F2B09470900ECBB3B /* TextRenderingSwift.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		694381612B09470900ECBB3B /* TextRenderingSwift */ = {
+			isa = PBXGroup;
+			children = (
+				694381622B09470900ECBB3B /* TextRenderingSwiftApp.swift */,
+				694381642B09470900ECBB3B /* ContentView.swift */,
+				694381712B09472A00ECBB3B /* FontAtlas.swift */,
+				694381752B0A7D0E00ECBB3B /* TextMesh.swift */,
+				694381772B0AA6D400ECBB3B /* Renderer.swift */,
+				694381732B0A7BA900ECBB3B /* SimdTypes.swift */,
+				694381662B09470A00ECBB3B /* Assets.xcassets */,
+				6943816B2B09470A00ECBB3B /* TextRenderingSwift.entitlements */,
+				694381682B09470A00ECBB3B /* Preview Content */,
+			);
+			path = TextRenderingSwift;
+			sourceTree = "<group>";
+		};
+		694381682B09470A00ECBB3B /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				694381692B09470A00ECBB3B /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6943815E2B09470900ECBB3B /* TextRenderingSwift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6943816E2B09470A00ECBB3B /* Build configuration list for PBXNativeTarget "TextRenderingSwift" */;
+			buildPhases = (
+				6943815B2B09470900ECBB3B /* Sources */,
+				6943815C2B09470900ECBB3B /* Frameworks */,
+				6943815D2B09470900ECBB3B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TextRenderingSwift;
+			productName = TextRenderingSwift;
+			productReference = 6943815F2B09470900ECBB3B /* TextRenderingSwift.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		694381572B09470900ECBB3B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					6943815E2B09470900ECBB3B = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 6943815A2B09470900ECBB3B /* Build configuration list for PBXProject "TextRenderingSwift" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 694381562B09470900ECBB3B;
+			productRefGroup = 694381602B09470900ECBB3B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6943815E2B09470900ECBB3B /* TextRenderingSwift */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6943815D2B09470900ECBB3B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6943816A2B09470A00ECBB3B /* Preview Assets.xcassets in Resources */,
+				694381672B09470A00ECBB3B /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6943815B2B09470900ECBB3B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				694381742B0A7BA900ECBB3B /* SimdTypes.swift in Sources */,
+				694E71DD2B10409C00A8ED55 /* Shaders.metal in Sources */,
+				694381762B0A7D0E00ECBB3B /* TextMesh.swift in Sources */,
+				694381722B09472A00ECBB3B /* FontAtlas.swift in Sources */,
+				694381652B09470900ECBB3B /* ContentView.swift in Sources */,
+				694381782B0AA6D400ECBB3B /* Renderer.swift in Sources */,
+				694381632B09470900ECBB3B /* TextRenderingSwiftApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		6943816C2B09470A00ECBB3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6943816D2B09470A00ECBB3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		6943816F2B09470A00ECBB3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = TextRenderingSwift/TextRenderingSwift.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TextRenderingSwift/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = James.TextRenderingSwift;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		694381702B09470A00ECBB3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = TextRenderingSwift/TextRenderingSwift.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TextRenderingSwift/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = James.TextRenderingSwift;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6943815A2B09470900ECBB3B /* Build configuration list for PBXProject "TextRenderingSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6943816C2B09470A00ECBB3B /* Debug */,
+				6943816D2B09470A00ECBB3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6943816E2B09470A00ECBB3B /* Build configuration list for PBXNativeTarget "TextRenderingSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6943816F2B09470A00ECBB3B /* Debug */,
+				694381702B09470A00ECBB3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 694381572B09470900ECBB3B /* Project object */;
+}

@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "66C6A4BF-80DD-499A-8A2A-87317C508037"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EEABA80-5594-4D60-B55C-F38784BC0FDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/FontAtlas.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "pointSizeThatFits(forFont:inAtlasRect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AB3CF5A-A20D-4919-A001-7B09FE841C52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/FontAtlas.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "fontIsLikelyToFit(_:atSize:inAtlasRect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "119A0A18-F9CC-483F-A319-895A7CF76815"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/FontAtlas.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "pointSizeThatFits(forFont:inAtlasRect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81C870BF-B4A4-4B0A-A7B2-1BACB0042FA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/FontAtlas.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "pointSizeThatFits(forFont:inAtlasRect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "620496C4-777A-4C63-AD3C-B195BF85A52D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/FontAtlas.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "fontIsLikelyToFit(_:atSize:inAtlasRect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99E01A55-65EB-4129-98A3-C08ED9FE5BA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/FontAtlas.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "fontIsLikelyToFit(_:atSize:inAtlasRect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1198556F-4057-406D-870F-5B705060CDAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/FontAtlas.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "fontIsLikelyToFit(_:atSize:inAtlasRect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5477AEB3-9667-4647-BE1A-EECC2D475B28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/FontAtlas.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "makeAtlas(forFont:width:height:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BD2CFDA-AF6E-46DD-84A4-6121AC61B543"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "loadAtlas()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1BD2CFDA-AF6E-46DD-84A4-6121AC61B543 - a8ead3bdefac553e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.Renderer.makeFontAtlasIfNeeded() -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/Renderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "1BD2CFDA-AF6E-46DD-84A4-6121AC61B543 - 38fee26bad41b680"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static TextRenderingSwift.Renderer.fileURL() throws -&gt; Foundation.URL"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/Renderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "1BD2CFDA-AF6E-46DD-84A4-6121AC61B543 - 7583e71faf1cf66f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.Renderer.load() -&gt; Swift.Optional&lt;TextRenderingSwift.FontAtlas&gt;"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/Renderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D98BF82-10AD-453A-874B-C6E841CB0972"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "loadAtlas()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D98BF82-10AD-453A-874B-C6E841CB0972 - a8ead3bdefac5519"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.Renderer.makeFontAtlasIfNeeded() -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/Renderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "8D98BF82-10AD-453A-874B-C6E841CB0972 - 38fee26bad41b680"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static TextRenderingSwift.Renderer.fileURL() throws -&gt; Foundation.URL"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/Renderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "8D98BF82-10AD-453A-874B-C6E841CB0972 - 7583e71faf1cf648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.Renderer.load() -&gt; Swift.Optional&lt;TextRenderingSwift.FontAtlas&gt;"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/Renderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4DBD5DD-E559-4372-8030-BCDCD96D8405"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "loadAtlas()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BAB8D09-040B-4A79-880E-D7112C549B97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "makeTextMesh(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F33D1DFF-19F5-4848-AA61-293F893D9472"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "makeTextMesh(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39AE15B8-F1D3-454B-B2E3-1A7748345D91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "draw(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A359D3FF-569F-4785-AE6B-7EA2B319489E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "renderPassDescriptor(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D995C3B-8EB8-4C87-AAF1-07E6DEE991C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "Renderer"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D9E4BEF-607F-43FC-ADC0-44258E4353FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shaders.metal"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "vertex_shade(constant Vertex *vertices [[buffer(0)]], constant Uniforms &amp;uniforms [[buffer(1)]], uint vid [[vertex_id]])"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3838A17E-78CC-464C-9FDE-D92CDCFEB4FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shaders.metal"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "vertex_shade(constant Vertex *vertices [[buffer(0)]], constant Uniforms &amp;uniforms [[buffer(1)]], uint vid [[vertex_id]])"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EE0B036-9F13-484E-9916-09CE515C6554"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7EE0B036-9F13-484E-9916-09CE515C6554 - b15ad32bbf59c12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.TextMesh.enumerateGlyphs(inFrame: __C.CTFrameRef, completion: Swift.Optional&lt;(Swift.UInt16, Swift.Int, __C.CGRect) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "5516">
+               </Location>
+               <Location
+                  uuid = "7EE0B036-9F13-484E-9916-09CE515C6554 - b15ad32bbf59c12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.TextMesh.enumerateGlyphs(inFrame: __C.CTFrameRef, completion: Swift.Optional&lt;(Swift.UInt16, Swift.Int, __C.CGRect) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "5504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1AA3D26-7FF4-40B8-90C4-136955B244A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shaders.metal"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fragment_shade(TransformedVertex vert [[stage_in]], constant Uniforms &amp;uniforms [[buffer(0)]], sampler samplr [[sampler(0)]], texture2d&lt;float, access::sample&gt; texture [[texture(0)]])"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "514235B9-D7C8-4DBA-B9D0-A0EA640B0E23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getMeshData(withString:inRect:withFont:atSize:device:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D968C9D-782F-4D07-8A6A-70023C655D92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getMeshData(withString:inRect:withFont:atSize:device:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D968C9D-782F-4D07-8A6A-70023C655D92 - a9fb12d7da471cb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.TextMesh.makeMesh(_: Swift.String, inRect: __C.CGRect, withFont: TextRenderingSwift.FontAtlas, atSize: CoreGraphics.CGFloat, device: __C.MTLDevice) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "1684">
+               </Location>
+               <Location
+                  uuid = "0D968C9D-782F-4D07-8A6A-70023C655D92 - 621be72d237a6f1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.UInt16, Swift.Int, __C.CGRect) -&gt; () in TextRenderingSwift.TextMesh.makeMesh(_: Swift.String, inRect: __C.CGRect, withFont: TextRenderingSwift.FontAtlas, atSize: CoreGraphics.CGFloat, device: __C.MTLDevice) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EECCC64C-4124-41D5-90D2-BB62CC546E79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF1E6AF0-8644-48F8-973F-1E9486662641"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DD84D4A-30E3-4AD6-86B5-6688664C83CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F26DB38F-7A31-4215-89D6-5AFE79B3A576"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FCE2A0C-3134-47F9-AA83-85836E2BD988"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81918519-489E-4758-AEB5-1C4474E89457"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81AB384E-F81D-470F-86E6-8D5474382DAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB4243D0-2E6A-47C3-B8EC-8FDD05956CFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "getMeshData(withString:inRect:withFont:atSize:device:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8FDFA20-D4B5-442A-AB0E-4014BD87BE1D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "getMeshData(withString:inRect:withFont:atSize:device:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31284107-E3EC-42BE-9B13-E86E82F3FBD8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getMeshData(withString:inRect:withFont:atSize:device:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "31284107-E3EC-42BE-9B13-E86E82F3FBD8 - a9fb12d7da471e01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.TextMesh.makeMesh(_: Swift.String, inRect: __C.CGRect, withFont: TextRenderingSwift.FontAtlas, atSize: CoreGraphics.CGFloat, device: __C.MTLDevice) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "31284107-E3EC-42BE-9B13-E86E82F3FBD8 - 68104f894fbdfa4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CTLineRef) -&gt; () in TextRenderingSwift.TextMesh.makeMesh(_: Swift.String, inRect: __C.CGRect, withFont: TextRenderingSwift.FontAtlas, atSize: CoreGraphics.CGFloat, device: __C.MTLDevice) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C481312-3DF1-4DB5-B17F-85C24D02A5FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F489AA5-D1C2-408C-A289-1D031FB8DB2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "getMeshData(withString:inRect:withFont:atSize:device:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0274DD29-E759-4038-8BBB-30E5237F2A53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "getMeshData(withString:inRect:withFont:atSize:device:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23F57747-A110-4906-B219-0CD790199472"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "enumerateGlyphs(inFrame:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B41D9716-56AE-4C46-BFEF-A0E4B1A304FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "getMeshData(withString:inRect:withFont:atSize:device:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B41D9716-56AE-4C46-BFEF-A0E4B1A304FF - 621be72d237a6e24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.UInt16, Swift.Int, __C.CGRect) -&gt; () in TextRenderingSwift.TextMesh.makeMesh(_: Swift.String, inRect: __C.CGRect, withFont: TextRenderingSwift.FontAtlas, atSize: CoreGraphics.CGFloat, device: __C.MTLDevice) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "10224">
+               </Location>
+               <Location
+                  uuid = "B41D9716-56AE-4C46-BFEF-A0E4B1A304FF - 621be72d237a6e24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.UInt16, Swift.Int, __C.CGRect) -&gt; () in TextRenderingSwift.TextMesh.makeMesh(_: Swift.String, inRect: __C.CGRect, withFont: TextRenderingSwift.FontAtlas, atSize: CoreGraphics.CGFloat, device: __C.MTLDevice) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "10484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C83130CF-938E-4FEA-8320-23CF32DE4D2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "Renderer"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE653F0D-72FA-45B7-8340-2469824B798F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/Renderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "draw(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC2F1626-AF6E-4AAF-9160-8B7D09459EBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextRenderingSwift/TextMesh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "makeMesh(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC2F1626-AF6E-4AAF-9160-8B7D09459EBD - d487cb81e0c181df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.TextMesh.makeMesh(Swift.Array&lt;TextRenderingSwift.Vertex&gt;, Swift.Array&lt;Swift.UInt16&gt;, __C.MTLDevice) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "AC2F1626-AF6E-4AAF-9160-8B7D09459EBD - d487cb81e0c181fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextRenderingSwift.TextMesh.makeMesh(Swift.Array&lt;TextRenderingSwift.Vertex&gt;, Swift.Array&lt;Swift.UInt16&gt;, __C.MTLDevice) -&gt; ()"
+                  moduleName = "TextRenderingSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jbrown574/dev/Stuff/TextRenderingSwift/TextRenderingSwift/TextMesh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
